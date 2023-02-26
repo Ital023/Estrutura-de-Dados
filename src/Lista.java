@@ -111,4 +111,11 @@ public class Lista {
             return elemento_removido;
         }
     }
+
+    public void printLista(){
+        for(int i=0;i<numero_elementos;i++){
+            System.out.print("[" + vetor_elementos[i] + "]");
+        }
+        System.out.println();
+    }
 }
