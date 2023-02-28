@@ -1,5 +1,5 @@
 public class Filas {
-//Filas as remocoes ocorrem no final da lista e a adicao acontece no inicio.
+//Filas as remocoes ocorrem no inicio da lista e a adicao acontece no final.
 //FIFO (First in, First out)
     int vetorFilas[];
     int numero_elementos;
